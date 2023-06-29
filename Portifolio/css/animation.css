@@ -1,0 +1,4 @@
+@keyframes example {
+    30%{
+      transform: translatey(-10%);
+    }}
